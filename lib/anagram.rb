@@ -6,7 +6,7 @@ def Anagram
     @word = word
   end
   
-  def match(%w)
+  def match(words)
     
   end
   
